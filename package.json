@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "private": true,
+  "dependencies": {
+    "typescript": "^3.8.0-dev.20191105"
+  },
+  "scripts": {
+    "build": "tsc -b"
+  }
+}
